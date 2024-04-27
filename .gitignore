@@ -1,0 +1,11 @@
+.history
+__pycache__
+.idea
+.my_ve
+./__pycache__
+*.log
+*.pot
+*.pyc
+.venv
+backend/db.cnf
+uploads/images/
